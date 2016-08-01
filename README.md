@@ -16,14 +16,23 @@ What's inside?
 --------------
 
  [1]Ubuntu 14.04.4 LTS (Trusty 64)
+ 
  [2]PHP 5.5.9
+ 
  [3]MySQL 14.14
+ 
  [4]Custom DB, USER and PASS and auto run migration
+ 
  [5]PHPMyAdmin (access: ip/phpmyadmin -u root -p root)
+ 
  [6]Vagrant Cachier to speed up your symfony application
+ 
  [7]Optional IP Address
+ 
  [8]Document root
+ 
  [9]Composer
+ 
 [10]Git
 
 ##Enjoy!!
