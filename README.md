@@ -29,7 +29,7 @@ What's inside?
  
  [7]Optional IP Address
  
- [8]Document root(You don't need to access/web to run the application)
+ [8]Document root(You don't need to access ip/web to run the application)
  
  [9]Composer
  
